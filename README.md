@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=A/B%20Testing%20%26%20Causal%20Inference%20Platform&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=End-to-End%20Python%20Experimentation%20Engine&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
